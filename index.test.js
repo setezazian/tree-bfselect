@@ -1,6 +1,6 @@
-const someFunctionName = require('./index');
+const Tree = require('./index');
 
-describe('Test the implementation of someFunctionName', () => {
+describe('Test the implementation of BFSelect', () => {
   it('should ...', () => {
     expect().toBe();
   });
